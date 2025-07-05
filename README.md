@@ -4,6 +4,3 @@ This repository contains my Python solutions for various LeetCode problems. Each
 
 ---
 
-## 📌 Structure
-
-Each file follows this naming convention:
