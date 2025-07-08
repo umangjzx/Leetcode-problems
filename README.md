@@ -13,5 +13,6 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 1 | Two Sum | Unknown | ✅ Solved |
 | 2 | Add Two Numbers | Unknown | ✅ Solved |
 | 3 | Longest Substring Without Repeating Characters | Unknown | ✅ Solved |
+| 4 | Median of Two Sorted Arrays | Unknown | ✅ Solved |
 | 1353 | Maximum Number of Events That Can Be Attended | Unknown | ✅ Solved |
 | 1394 | Find Lucky Integer in an Array | Unknown | ✅ Solved |
