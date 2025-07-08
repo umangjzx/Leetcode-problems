@@ -16,3 +16,4 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 4 | Median of Two Sorted Arrays | Unknown | ✅ Solved |
 | 1353 | Maximum Number of Events That Can Be Attended | Unknown | ✅ Solved |
 | 1394 | Find Lucky Integer in an Array | Unknown | ✅ Solved |
+| 1751 | Maximum Number of Events That Can Be Attended II | Unknown | ✅ Solved |
