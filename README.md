@@ -19,5 +19,6 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 1751 | Maximum Number of Events That Can Be Attended II | Unknown | ✅ Solved |
 | 1900 | The Earliest and Latest Rounds Where Players | Unknown | ✅ Solved |
 | 2402 | Meeting Rooms III | Unknown | ✅ Solved |
+| 2410 | Maximum Matching of Players With Trainers | Unknown | ✅ Solved |
 | 3439 | Reschedule Meetings for Maximum Free Time I | Unknown | ✅ Solved |
 | 3440 | Reschedule Meetings for Maximum Free Time II | Unknown | ✅ Solved |
