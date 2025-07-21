@@ -20,6 +20,7 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 1751 | Maximum Number of Events That Can Be Attended II | Unknown | ✅ Solved |
 | 1900 | The Earliest and Latest Rounds Where Players | Unknown | ✅ Solved |
 | 1948 | Delete Duplicate Folders in System | Unknown | ✅ Solved |
+| 1957 | Delete Characters to Make Fancy String | Unknown | ✅ Solved |
 | 2163 | Minimum Difference in Sums After Removal of Elements | Unknown | ✅ Solved |
 | 2402 | Meeting Rooms III | Unknown | ✅ Solved |
 | 2410 | Maximum Matching of Players With Trainers | Unknown | ✅ Solved |
