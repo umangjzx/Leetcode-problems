@@ -18,6 +18,7 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 1353 | Maximum Number of Events That Can Be Attended | Unknown | ✅ Solved |
 | 1394 | Find Lucky Integer in an Array | Unknown | ✅ Solved |
 | 1695 | Maximum Erasure Value | Unknown | ✅ Solved |
+| 1717 | Maximum Score From Removing Substrings | Unknown | ✅ Solved |
 | 1751 | Maximum Number of Events That Can Be Attended II | Unknown | ✅ Solved |
 | 1900 | The Earliest and Latest Rounds Where Players | Unknown | ✅ Solved |
 | 1948 | Delete Duplicate Folders in System | Unknown | ✅ Solved |
