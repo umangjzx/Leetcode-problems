@@ -32,3 +32,4 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 3202 | Find the Maximum Length of Valid Subsequence II | Unknown | ✅ Solved |
 | 3439 | Reschedule Meetings for Maximum Free Time I | Unknown | ✅ Solved |
 | 3440 | Reschedule Meetings for Maximum Free Time II | Unknown | ✅ Solved |
+| 3480 | Maximize Subarrays After Removing One Conflicting Pair | Unknown | ✅ Solved |
