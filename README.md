@@ -24,6 +24,7 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 1948 | Delete Duplicate Folders in System | Unknown | ✅ Solved |
 | 1957 | Delete Characters to Make Fancy String | Unknown | ✅ Solved |
 | 2163 | Minimum Difference in Sums After Removal of Elements | Unknown | ✅ Solved |
+| 2210 | Count Hills and Valleys in an Array | Unknown | ✅ Solved |
 | 2322 | Minimum Score After Removals on a Tree | Unknown | ✅ Solved |
 | 2402 | Meeting Rooms III | Unknown | ✅ Solved |
 | 2410 | Maximum Matching of Players With Trainers | Unknown | ✅ Solved |
