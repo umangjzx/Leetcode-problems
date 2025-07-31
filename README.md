@@ -14,6 +14,7 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 2 | Add Two Numbers | Unknown | ✅ Solved |
 | 3 | Longest Substring Without Repeating Characters | Unknown | ✅ Solved |
 | 4 | Median of Two Sorted Arrays | Unknown | ✅ Solved |
+| 898 | Bitwise ORs of Subarrays | Unknown | ✅ Solved |
 | 1290 | Convert Binary Number in a Linked List to Integer | Unknown | ✅ Solved |
 | 1353 | Maximum Number of Events That Can Be Attended | Unknown | ✅ Solved |
 | 1394 | Find Lucky Integer in an Array | Unknown | ✅ Solved |
