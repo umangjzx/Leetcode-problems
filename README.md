@@ -33,6 +33,7 @@ This repository contains my Python solutions for various LeetCode problems. Each
 | 2410 | Maximum Matching of Players With Trainers | Unknown | ✅ Solved |
 | 2411 | Smallest Subarrays With Maximum Bitwise OR | Unknown | ✅ Solved |
 | 2419 | Longest Subarray With Maximum Bitwise AND | Unknown | ✅ Solved |
+| 2561 | Rearranging Fruits | Unknown | ✅ Solved |
 | 3136 | Valid Word | Unknown | ✅ Solved |
 | 3201 | Find the Maximum Length of Valid Subsequence I | Unknown | ✅ Solved |
 | 3202 | Find the Maximum Length of Valid Subsequence II | Unknown | ✅ Solved |
